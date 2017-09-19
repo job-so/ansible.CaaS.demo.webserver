@@ -1,7 +1,7 @@
 <html>
   <body>
     <center>
-      <img width=80px src="http://dimelo-ideas-production.s3-eu-west-1.amazonaws.com/1286/f14b08d70276c6ec/new_logo_blog_original.jpg" /><br />
+      <img width=80px src="http://www.mbda-systems.com/wp-content/uploads/2015/06/logo.svg" /><br />
       <h1><?php echo "SERVER : ".$_SERVER["SERVER_ADDR"]."/".$_SERVER["REMOTE_PORT"]."</h1>";?>
       <form action="/msg">
         <input type="text" name="msg" />
